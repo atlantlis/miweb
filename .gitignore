@@ -1,0 +1,3 @@
+#rutas, archivos y carpetas para ignorar que no vayan al reprocitorio
+.env
+
